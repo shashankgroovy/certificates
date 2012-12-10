@@ -1,0 +1,74 @@
+"C overtakes Java as the No. 1 programming language in the TIOBE index.",
+         "http://pixelstech.net/article/index.php?id=1333969280"
+
+"This explains why technical books are all ridiculously thick and overpriced",
+         "http://prog21.dadgum.com/65.html"
+
+"Learn Haskell Fast and Hard",
+         "http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/"
+
+"Announcing Yesod 1.0- a robust, developer friendly, high performance web framework for Haskell",
+         "http://www.yesodweb.com/blog/2012/04/announcing-yesod-1-0"
+
+"TIL about the Lisp Curse",
+         "http://www.winestockwebdesign.com/Essays/Lisp_Curse.html""
+
+The Downfall of Imperative Programming. Functional Programming and the Multicore Revolution",
+         "http://fpcomplete.com/the-downfall-of-imperative-programming/"
+
+"Open Source - Twitter Stock Market Game - ",
+         "http://www.twitstreet.com/"
+
+"First look: Qt 5 makes JavaScript a first-class citizen for app development", 
+        "http://arstechnica.com/business/news/2012/04/an-in-depth-look-at-qt-5-making-javascript-a-first-class-citizen-for-native-cross-platform-developme.ars"
+
+"Benchmark of Dictionary Structures", 
+        "http://lh3lh3.users.sourceforge.net/udb.shtml"
+
+"If It's Not on Prod, It Doesn't Count: The Value of Frequent Releases",
+         "http://bits.shutterstock.com/?p=165"
+
+"Language proposal: dave",
+         "http://davelang.github.com/"
+
+"LispNYC and EmacsNYC meetup Tuesday Night: Large Scale Development with Elisp ",
+         "http://www.meetup.com/LispNYC/events/47373722/"
+
+"research!rsc: Zip Files All The Way Down",
+         "http://research.swtch.com/zip"
+
+"The Tyranny of the Diff",
+        "http://michaelfeathers.typepad.com/michael_feathers_blog/2012/04/the-tyranny-of-the-diff.html"
+
+"Understanding NIO.2 File Channels in Java 7",
+         "http://java.dzone.com/articles/understanding-nio2-file"
+
+"Why vector icons don't work",
+        "http://www.pushing-pixels.org/2011/11/04/about-those-vector-icons.html"
+
+"Python - Getting Data Into Graphite - Code Examples",
+        "http://coreygoldberg.blogspot.com/2012/04/python-getting-data-into-graphite-code.html"
+
+"Mozilla: The Web as the Platform and The Kilimanjaro Event",
+        "https://groups.google.com/forum/?fromgroups#!topic/mozilla.dev.planning/Y9v46wFeejA"
+
+"github is making me feel stupid(er)",
+        "http://www.serpentine.com/blog/2012/04/08/github-is-making-me-feel-stupider/"
+
+"BitC Retrospective: The Issues with Type Classes",
+         "http://www.bitc-lang.org/pipermail/bitc-dev/2012-April/003315.html"
+
+"Object Oriented C: Class-like Structures",
+         "http://cecilsunkure.blogspot.com/2012/04/object-oriented-c-class-like-structures.html"
+
+"The LOVE game framework version 0.8.0 has been released - with GLSL shader support!",
+         "https://love2d.org/forums/viewtopic.php?f=3&amp;t=8750"
+
+"An open letter to language designers: Please kill your sacred cows. (megarant)",
+         "http://joshondesign.com/2012/03/09/open-letter-language-designers"
+
+"Developers guide to Garage48 hackatron",
+         "http://martingryner.com/developers-guide-to-garage48-hackatron/"
+
+"An R programmer looks at Julia",
+         "http://www.r-bloggers.com/an-r-programmer-looks-at-julia/"
